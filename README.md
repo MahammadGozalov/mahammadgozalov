@@ -11,13 +11,13 @@ I've been programming for 1.5 years now and finally found myself as a frontend d
   <br>
   <br>
   <br>
-  <a href="https://github.com/mustafabayramov" target="_blank" rel="noreferrer"><img
+  <a href="https://github.com/mahammadgozalovmustafabayramov" target="_blank" rel="noreferrer"><img
     src="https://img.shields.io/github/followers/Nijat-Mansimov?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mahammad-gozalov-667b0a273/" target="_blank" rel="noreferrer" width="36" height="36" ><img src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.png"/></a>
+<a href="https://www.linkedin.com/in/mahammad-gozalov-667b0a273/" target="_blank" rel="noreferrer"><img src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.png" width="36" height="36" alt="Linkedin"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
